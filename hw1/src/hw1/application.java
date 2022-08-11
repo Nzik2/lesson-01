@@ -52,4 +52,5 @@ public static int getMax(int[] inputArray){
 	 return minValue; 
 }
 }
+//first commit to github
 
